@@ -10,4 +10,5 @@ module.exports = {
 
   jquery: require('./jquery'),
   xhr: require('./xhr'),
+  fetch: require('./fetch'),
 };
